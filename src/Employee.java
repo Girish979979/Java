@@ -40,5 +40,9 @@ public class Employee {
         emp1.designation = "Programmer";
         emp1.salary = 25000;
         emp1.printEmployee();
+        emp1.empAge(12);
+        emp1.empDesignation("Programmer");
+        emp1.empSalary(25000);
+        emp1.printEmployee();
     }
 }
