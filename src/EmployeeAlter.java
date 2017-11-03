@@ -17,5 +17,6 @@ public class EmployeeAlter {
 
     public static void main(String args[]){
         EmployeeAlter emp1 = new EmployeeAlter("Girish",12,"Analyst Programmer",25000);
+        EmployeeAlter emp2 = new EmployeeAlter("Remo",12,"Analyst Programmer",25000);
     }
 }
